@@ -116,7 +116,7 @@ Se calcularon los siguientes métricos estadísticos:
 | Promedio Medido ($\mu$) | $1.6482\text{ V}$ |
 | Desviación Estándar ($\sigma$) | $1.82\text{ mV}$ |
 | Error Máximo Registrado | $3.21\text{ mV}$ |
-| Distribución | Normal / Gaussiana |
+| Distribución | Normal |
 
 ---
 ### Desarrollo
