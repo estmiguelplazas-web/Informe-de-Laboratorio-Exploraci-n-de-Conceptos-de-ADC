@@ -119,4 +119,10 @@ Se calcularon los siguientes métricos estadísticos:
 | Distribución | Normal / Gaussiana |
 
 ---
+### Desarrollo
 
+- [X] Capturas MicroPython 
+- [X] Capturas Montaje
+- [X] Capturas Osciloscopio 
+- [X] Codigos 
+- [X] Informe
